@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background: #313543;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+iframe {
+    margin: auto;
+    box-shadow: 0 0 24px #202432;
+    border-radius: 8px;
+}
+
+footer { text-align: center; padding-bottom: 1rem; }
+
+a {
+    color: #CACEDC;
+    text-decoration: none;
+}
+
+a:hover { text-decoration: underline; }
