@@ -6,12 +6,13 @@ body {
     font-family: sans-serif;
     margin: 0;
     padding: 0;
+    color: white;
 }
 
-iframe {
+main {
     margin: auto;
-    box-shadow: 0 0 24px #202432;
-    border-radius: 8px;
+    font-size: 2rem;
+    max-width: 80%;
 }
 
 footer { text-align: center; padding-bottom: 1rem; }
